@@ -5,11 +5,11 @@ Automatic Program Generator
 � Copyright 1998-2010 Pavel Haiduc, HP InfoTech s.r.l.
 http://www.hpinfotech.com
 
-Project : 
-Version : 
+Project : Sound Following Robot
+Version : 1.0
 Date    : 09-Mar-2015
-Author  : Freeware, for evaluation and non-commercial use only
-Company : 
+Author  : Aman, Arpit, Ashish
+Company : MNNIT
 Comments: 
 
 
